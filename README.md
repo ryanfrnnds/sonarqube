@@ -1,6 +1,7 @@
 # 🛠️ Configuração do SonarQube + SonarScanner para Projetos Locais
 
-Este repositório fornece um ambiente Docker para rodar **SonarQube** e um **SonarScanner**, permitindo a análise de qualidade de código em qualquer projeto local.
+Este repositório fornece um ambiente Docker para rodar **SonarQube** e um **SonarScanner**, permitindo a análise de qualidade de código em qualquer projeto local. 
+**As configurações presentes são para um projeto JAVA**
 
 ## 📌 **Visão Geral**
 O setup consiste em **dois `docker-compose` separados**:
