@@ -1,0 +1,6 @@
+services:
+  scanner:
+    build:
+      context: .
+      dockerfile: Dockerfile-scanner
+    container_name: sonar_scanner
